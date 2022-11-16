@@ -10,10 +10,11 @@ body {
 .container {
     margin: auto;
     margin-top: 50px;
-    box-shadow: 0 0 30px grey;
-    width: 60%;
+    box-shadow: 0 0 30px #dad7d7;
+    width: 50%;
     height: 100%;
     border-radius: 5px;
+    display: block;
 }
 
 .block {
@@ -60,7 +61,7 @@ body {
     padding: 10px;
     width: 210px;
     color: white;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .light {
@@ -68,7 +69,7 @@ body {
     box-sizing: border box;
     background-color: #52bcbe;
     color: white;
-    padding: 10px 30px;
+    padding: 15px 30px;
 }
 
 .light ul {
